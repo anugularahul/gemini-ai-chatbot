@@ -13,3 +13,5 @@ Python 🐍
 Streamlit 🎨
 Google Generative AI (Gemini) 🤖
 Speech Recognition 🎤
+🎯 Try it out now! 👇
+🔗 [https://gemini-ai-assistant-anugula-rahul.streamlit.app]

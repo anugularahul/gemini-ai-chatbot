@@ -23,4 +23,11 @@ Google Generative AI (Gemini) 🤖
 Speech Recognition 🎤
 
 🎯 Try it out now! 👇
+
+* Render
+
+🔗 [https://gemini-ai-chatbot-rwng.onrender.com]
+
+* Streamlit
+  
 🔗 [https://gemini-ai-assistant-anugula-rahul.streamlit.app]
